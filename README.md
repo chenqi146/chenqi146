@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Thingsboard, Go, Angular, Vue**
 
-- 📝 I regularly write articles on [https://chenqi146.github.io/blog](https://chenqi146.github.io/blog)
-
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Spring Cloud, Spring Boot, Netty, MQTT, Iot**
 
 - 📫 How to reach me **cqmike0315@gmail.com**
 
